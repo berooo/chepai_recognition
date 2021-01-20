@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="50fuwu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shibaorong/CCPD_CNN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shibaorong@127.0.0.1:1234 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shibaorong@127.0.0.1:1250 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shibaorong/CCPD_CNN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
